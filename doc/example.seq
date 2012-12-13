@@ -37,14 +37,14 @@ loop:
 loop:
   name: back_beat
   tempo: 120
-  signature: 8/8
+  signature: 4/4
   data:
     hihat:
-      beats: 1 3 5 7
+      beats: 1 2 3 4
     kick:
-      beats: 1 4
+      beats: 1
     snare:
-      beats: 5
+      beats: 2 4
 
 loop:
   name: bass
